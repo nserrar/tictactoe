@@ -1,0 +1,7 @@
+services:
+    tic_tac_toe_game.command:
+        class: TicTacToe\Bundle\GameBundle\Command\GameCommand
+        arguments: ["%command.name%", '@tic_tac_toe_game.manager']
+
+    tic_tac_toe_game.manager:
+        class: TicTacToe\Bundle\GameBundle\Manager\GameManager
