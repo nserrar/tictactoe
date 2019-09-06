@@ -1,4 +1,4 @@
-Tic Tac Toe Game (job interview test)
+Tic Tac Toe Game
 ========================
 
 **WARNING**: There is some bugs in the game which i didn't had time to resolve.
