@@ -6,4 +6,4 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/i
 #EXTINF:-1 tvg-id="Al Maghribia MA" tvg-name="Al Maghribia MA" tvg-logo="https://raw.githubusercontent.com/3nakib/IPTV/master/icons/AlMaghribia.ma.png" group-title="Maroc",Al Maghribia MA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Medi 1 TV" tvg-name="Medi 1 TV" tvg-logo="http://www.medi1tv.com/ar/img/logo2.png" group-title="Maroc",Medi 1 TV MA
-http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8 
